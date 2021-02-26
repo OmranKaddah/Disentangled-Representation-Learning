@@ -8,8 +8,8 @@
 * **Joint-VAE** from [Learning Disentangled Joint Continuous and Discrete Representations](https://arxiv.org/abs/1804.00104) (NIPS 2018).
 
 # Instructions
-    To load model, it should be named according to the pattern LOSSFUNCTION_model_DATASET
+    To load model, should be named according to the pattern LOSsFUNCTION_model_DATASET
     where DATASET is either of 3Dshapes,mnist, or dsprites
-    LOSSFUNCTION is either betavae (for all loss variations except joint-vae and vade), vade, jointvae.
+    LOSsFUNCTION is either betavae (for all loss variations except joint-vae and vade), vade, jointvae.
 
     type --help for argument passing
